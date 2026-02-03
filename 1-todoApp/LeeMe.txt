@@ -1,0 +1,16 @@
+#####################################
+##  [React JS Tutorial for Beginners | Build a To-Do App Step by Step Guide](https://www.youtube.com/watch?v=01v9dlJNUxU)
+##
+## 
+
+# check for node and npm
+$ node -v 
+$ npm -v 
+
+# Create project (after create folder optionally) with the LATEST vite distro
+
+$ npm create vite@latest
+  > use . to use the same folder name as Project name
+  > Select React 
+  > Select Javascript for non-attached variant
+  

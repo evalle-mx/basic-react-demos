@@ -1,0 +1,16 @@
+
+[How to Create a React App with Vite (2025) in Visual Studio Code – Fast & Easy Beginner Tutorial!](https://www.youtube.com/watch?v=2nE27-77oQ0)
+
+### BASIC React Project CREATION ####
+
+# check for node and npm
+$ node -v 
+$ npm -v 
+
+# Create project (after create folder optionally) with the LATEST vite distro
+
+$ npm create vite@latest
+  > use . to use the same folder name as Project name
+  > Select React 
+  > Select Javascript for non-attached variant
+  
